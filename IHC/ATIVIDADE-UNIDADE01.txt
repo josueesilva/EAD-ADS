@@ -1,0 +1,71 @@
+1 - Quais são os tópicos (assuntos) estudados por essa área?
+
+R.: UX ou User eXpirience, designa a o resultado da experiêcia do usuário em utilizar determinada ferramenta, produto ou aplicativo, seja essa experiência boa ou ruim.
+
+2 - Qual a influência que a UX possui nos softwares e aplicativos atuais?
+
+R.: Hoje em dia nos softwares e aplicativos é muito importante levar em consideração a UX, para que o aplicativo tenha uma boa aceitação, pois caso um software ou aplicativo seja desenvolvido sem se pensar em como o usuário vai interagir com esta funcionalidade pode gerar uma experiência ruim e assim uma má recepção desta função.
+
+3 - Pesquise um case (caso, em inglês) que aborde uma experiência positiva ou negativa com UX e comente (poste o link para que possamos acessar o case referenciado).
+
+R.:  Um case negativo, em minha opnião é o site https://g1.globo.com/ onde o menu para seleção do tipo de conteúdo exibido fica "escondido" no canto superior esquerdo, dificando a navegação pelo site.
+Já um case possitvo é o site https://www.r7.com/ onde além de possuir a navegação no canto superior esquerdo, também pode escolher selecionar o conteúdo por um menu horizontal no topo da página.
+
+
+------------------
+
+EDUARDO FRANCESQUET GOWACKI 
+RE: Atividade I
+
+1 - Quais são os tópicos estudados por essa área?
+
+A área de experiência do usuário traz o conceito de observar o ponto de vista de cada usuário levando em consideração como será usado, quando será usado, quem o utiliza, qual a experiência que o usuário já tem, quais podem ser as necessidades do usuário e qual a necessidade de ter um material que explique o seu uso.
+
+
+2 - Qual a influência da UX possui nos softwares e aplicativos atuais?
+
+Encontramos este conceito muito presente em aplicativos para nossos dispositívos móveis, novas páginas de internet, TV's, videogames e jogos, entre tantos outros, trazendo interfaces limpas, intuitivas, interativas, que seguem um padrão e que trazem muita facilidade de compreensão.
+
+Desta forma podemos observar que o design permite que pessoas com pouca ou nenhuma experiência com estes tipos de equipamentos ou utilizando novas interfaces sejam capazes de facil e rápidamente entender como funciona e utiliza-lo.
+
+
+3 - Pesquise um case que aborde uma experiência positiva ou negativa com UX e comente (poste o link para que possamos acessar o case referenciado)
+
+Um exelente exemplo são os sistemas operacionais de telefones móveis: duas decadas atraz o dispositivo vinha embalado juntamente com um manual de pelo menos 30 páginas com texto denso explicando detalhadamente como realizar as ações no equipamento pouco intuitivo e com bad UX. Hoje o manual que acompanha os celulares é um encarte que explica como inserir chip, aonde se encontram os botões e como ligar o dispositivo.
+
+A interface é parte essencial para a UX e está tão presente que a desenvolvedora do android disponibiliza um manual de desenvolvimento de interface, tendo como objetivo ter os aplicativos que rodam em seu SO seguindo uma uniformidade em seus designs, trazendo a importância da experiência já existênte do usuário para reduzir sua curva de aprendizagem em novos aplicativos ou na reformulação de interfaces.
+
+--
+JOSUE ELIAS DA SILVA 
+RE: Atividade I
+
+Eduardo, realmente a inovação tecnológiva facilitou o desenvolvimento de aplicações, softwares, jogos com uma UX muito mais facil e prazerosa. Assim como podemos ver no filme Vale do Silicio quando a Apple adquiriu da Xerox o mouse. 
+https://www.tecmundo.com.br/video-game-e-jogos/2068-a-historia-da-microsoft.htm
+------------
+LEONARDO SCHNEIDER DA SILVA 
+RE: Atividade I
+
+1 - Quais são os tópicos estudados por essa área?
+
+Como o próprio nome já diz, a UX estuda a interação do usuário com algum produto, não necessariamente um software. Leva em consideração desde a escolha daquele produto, seu uso, as suas funcionalidades, suas particularidades (quando estamos comparando produtos similares), se é de fácil manuseio, etc. Levando para a área de TI, temos que contar com os feedbacks dos usuários na utilização de um sistema. É assim que sabemos se eles estão tendo uma boa experiência, uma boa usabilidade, fluidez de resposta e precisão nas informações obtidas pelo software. É importante falar que a UX não é só sobre o produto, mas sim desde a sua concepção inicial de projeto, onde o que vai levar a que, estudos preliminares, os usuários em questão que irão utilizar, partes necessárias, possíveis erros, interface, usabilidade, conceitos e até mesmo, o impacto que aquele produto vai causar.
+
+Irei dar um exemplo da minha área atual: Quando projetamos uma cadeira, por exemplo, não levo em consideração apenas o design. Preciso abordar diversas questões. Parece simples, é apenas uma cadeira. Mas tem toda uma concepção de projeto: custo, material, ergonomia, conforto, etc. Tudo isso é levantado para o usuário, seja ele específico ou não, ter a melhor experiência com aquela cadeira que estou projetando.
+
+ 
+
+2 - Qual a influência da UX possui nos softwares e aplicativos atuais?
+
+Na atualidade, vemos diversas empresas lançando softwares. Sempre surge alguma necessidade nova. Como mencionado acima, o feedback do usuário é uma ferramenta importante para a construção/melhoria de algo. Vemos diariamente em nossos smartphones, atualização de aplicativos, para que o usuário tenha sempre a melhor experiência de uso. Na maioria das vezes, o usuário final só vê as mudanças de interface, pois é por ela que utilizamos os softwares. Podemos dar o exemplo dos sistemas operacionais dos nossos computadores, ou de seus aplicativos, onde antes tínhamos que saber determinados comandos para utilizar as ferramentas, hoje apenas com um clique podemos ter uma experiencia mais agradável. Essas mudanças sempre visam melhorar a experiência do usuário com o uso da ferramenta. Vou citar o exemplo do AutoCAD: em suas primeiras versões, só era possível projetar se você soubesse os comandos, não havia atalhos, hoje podemos projetar clicando nos botões de atalho, no fim, a experiência é a mesma, mas com mais facilidades, muitos ainda preferem usar da maneira antiga, apenas com os comandos, mas isso é que é importante, podemos continuar usando o programa da forma que sempre usamos, com uma experiência melhor.
+
+ 
+
+3 - Pesquise um case que aborde uma experiência positiva ou negativa com UX e comente (poste o link para que possamos acessar o case referenciado).
+
+Diariamente somos perguntados sobre nossos gostos, principalmente por tecnologia, que marca de celular preferimos, qual sistema operacional gostamos, etc. Ter uma boa experiência depende muito das preferências dos usuários. Temos como exemplo o uso de dois sistemas operacionais para smartphones: O Android e o IOS. Onde a preferência do usuário leva em questão se ele vai ter uma bad ux, ou uma good ux. A mudança de sistema as vezes delonga uma adaptação para o uso do novo sistema, bora a finalidade ser a mesma, são interfaces totalmente diferentes. Vemos muitos usuários do Android que quando usam o IOS, não tem uma boa experiência, mas não porque o sistema não é bom, mas sim porque ele não está acostumado com aquele novo sistema, isso acontece também com o inverso, usuários de IOS que migram para Android.
+--
+JOSUE ELIAS DA SILVA 
+RE: Atividade I
+
+Leonardo,
+
+Boa noite, concordo contigo, a aderencia de um usuario que utilizava android para iOS muitas vezes é dificil devido a UI - User Interface (interface do usuário),  mas o conceito das funcionalidades ainda são bem intuivos em ambos OS's, mesmo que seus componentens sejam de fato diferentes.
